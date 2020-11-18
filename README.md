@@ -1,1 +1,1 @@
-# vending-machine
+# vending_machine
